@@ -1,0 +1,13 @@
+package com.example.myFirstSpringTimnabob;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MyFirstSpringTimnabobApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
